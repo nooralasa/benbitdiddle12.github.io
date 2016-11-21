@@ -1,18 +1,18 @@
 # Site settings
-title: Ben Bitdiddle
+title: Noor Eddin Amer
 description: 'Software Developer'
-url: 'http://benbitdiddle12.github.io/'
+url: 'http://nooralasa.github.io/' # githubusername.github.io
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Ben Bitdiddle'
-  email: benbitdiddle12@gmail.com
-  twitter_username: benbitdiddle12
-  facebook_username: benbitdiddle12
-  github_username:  benbitdiddle12
-  linkedin_username:  benbitdiddle12
+  name: 'Noor Eddin Amer'
+  email: nooralasa@gmail.com
+  twitter_username: nooralasa
+  facebook_username: nooralasa
+  github_username:  nooralasa
+  linkedin_username:  nooralasa
 
 defaults:
   -
